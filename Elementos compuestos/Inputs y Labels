@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible"  content="IE-edge">
+        <meta name="viewport" content="width=device-width, inital scale=1.0">
+        <title>Elementos Compuestos</title>
+</head>
+<body>
+    <!-- Etiquetas para Inputs -->
+    <label for="Input1">Ejemplo de Input básico</label><br>
+    <!-- Entradas / Inputs -->
+    <input type="text" name="Input1" id="Input1" value="Valor1">
+    <br><br>
+
+    <!-- Tipos de Inputs -->
+    <label for="correo1">Escribe tu Correo Electronico</label><br>
+    <input type="email" name="correo1" id="correo1"><br><br>
+
+    <label for="numero1">Input de numero</label><br>
+    <input type="number" name="numero1" id="numero1"><br><br>
+
+    <label for="psw1">Input de Password</label><br>
+    <input type="password" name="psw1" id="psw1" minlength="8"><br><br>
+
+    <label for="tel1">Input de Telefono</label><br>
+    <input type="tel" name="tel1" id="tel1" maxlength="10"><br><br>
+
+    <label for="url1">Input de link</label><br>
+    <input type="url" name="url1" id="url1"><br><br>
+    
+    <input type="checkbox" id="Topping1" name="vehicle1" value="Cebolla>
+    for="Topping1>Tacos con Cebolla</label><br> 
+    <input type="checkbox" id="Topping2" name="vehicle1" value="Cilantro>
+    for="Topping2>Tacos con Cilantro</label><br>
+    <input type="checkbox" id="Topping3" name="vehicle1" value="Salsa>
+    for="Topping3">Tacos con Salsa</label><br><br>
+
+    <label for="Color1">Input de color</label><br> 
+    <input type="color" id="Color1" name="Color1"><br><br>  
+    
+    <label for="Fecha1">Input de Fecha</label><br> 
+    <input type="date" id="Fecha1" name="Fecha1"><br>
+    <input type="datetime-local" id="Fecha2" name="Fecha2"><br>  
+    <input type="week" id="Fecha3" name="Fecha3"><br>
+    <input type="time" id="Fecha4" name="Fecha4"><br>
+    <input type="month" id="Fecha5" name="Fecha5"><br><br>  
+
+    <label for="Archivo1">Input de archivo</label><br> 
+    <input type="file" id="Archivo1" name="Archivo1" multiple><br><br>
+
+    <input type="radio" id="html" name="fav_language" value="html">
+    <label for="html">HTML</label><br>
+    <input type="radio" id="css" name="fav_language" value="css">
+    <label for="cssl">CSS</label><br>
+    <input type="radio" id="JavaS" name="fav_language" value="JavaS">
+    <label for="javaSl">JavaS</label><br><br>
+
+    <label for="vol">Volumen (entre 0 y 50):</label><br> 
+    <input type="range" id="vol" name="vol" min="0" max="50"><br><br>
+
+    <input type="reset"><br>
+    <input type="submit"><br>
+
+    <input type="button" id="boton1" name="boton1" value="Boton1" onclick="alert('Bienvenidos Explorers')">
+
+</body>
+</html>
