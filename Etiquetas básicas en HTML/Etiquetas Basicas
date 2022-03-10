@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible"  content="IE-edge">
+        <meta name="viewport" content="width=device-width, inital scale=1.0">
+        <title>Elementos Compuestos</title>
+</head>
+<body>
+    <!--Heading - los titulos son muy utiles para resaltar info y para cuestiones de SEO-->
+    <h1>Bienvenidos Xplorers</h1>
+    <h2>Bienvenidos Xplorers</h2>
+
+    <!--Parrafos-->
+    <p>La famosa banda de rock se separó, al menos por un tiempo. Los integrantes declararon en 
+        diversos medios que no hubo una pelea, sino que quieren trabajar un tiempo como solitas. 
+        <BR>Además, en una rueda de prensa, el representante dijo que es probable que el año próximo 
+        los músicos se vuelvan a juntar para hacer una gira.</p>
+
+    <p>PARRAFO2 PARRAFO2 PARRAFO2 PARRAFO2 PARRAFO2 PARRAFO2 PARRAFO2</p>
+
+    <!--LINKS / ENLACES-->
+
+    <a href="https://github.com/LaunchX-InnovaccionVirtual" target="blank">Link a LaunchX</a><br><br>
+    <!--Target blank es para que la liga te la abra en otra pestaña-->
+
+    <!--Imagenes-->
+    <img src="https://i.imgur.com/H489Kdv.png" alt="Avengers" width="350px" height="450px">
+
+    <!--Tablas th= text header y td =tex design-->
+    <table>
+        <tr>
+            <th>Compañia</th>
+            <th>Contacto</th>
+            <th>Pais</th>
+        </tr>
+        <tr>
+            <td>Alfred Futtersky</td>
+            <td>Maria Anderson</td>
+            <td>Mexico</td>
+        </tr>
+        <tr>
+            <td>Bosch</td>
+            <td>kenbeatu05@321.com</td>
+            <td>Germany</td>
+        </tr>
+    </table>
+
+    <!--Listas ul= unordered list y ol= ordered list y dl=detailed list-->
+    <ul>
+        <li>cafe</li>
+        <li>Arroz</li>
+        <li>huevos</li>
+        <li>Leche</li>
+    </ul>
+
+    <ol>
+        <li>alumno1</li>
+        <li>Alumno2</li>
+        <li>Alumno3</li>
+        <li>Alumno4</li>
+    </ol>
+    
+    <dl>
+        <dt>Enchiladas</dt>
+        <dd>- Salsa roja</dd>
+        <dt>Molletes</dt>
+        <dd>- Pan con mantequilla y frijols</dd>    </dl>
+</body>
+</html>
