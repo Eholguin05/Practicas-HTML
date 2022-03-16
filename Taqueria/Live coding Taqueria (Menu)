@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible"  content="IE-edge">
+        <meta name="viewport" content="width=device-width, inital scale=1.0">
+        <title>Tacos Espaciales</title>
+</head>
+<body>
+    <img src="./assets/img/tespaciales.png" alt="Tacos Espaciales" width="150px">
+    <h1>BIENVENIDOS TACONAUTAS</h1>
+    <H2>Menú de Tacos</H2>
+    <p>Taco Mercurio (Pastor) ....................................$14</p>
+    <p>Taco Venus (Suadero).......................................$14</p>
+    <p>Taco Tierra (Tripa)...........................................$14</p>
+    <p>Taco Marte (Chorizo).......................................$14</p>
+    <p>Taco Jupiter (Lengua)......................................$14</p>
+    <p>Taco Saturno (Buche).......................................$14</p>
+    <p>Taco Urano (Masiza)........................................$14</p>
+    <p>Taco Neptuno (Cachete).....................................$14</p>
+    <p>Taco Tierra (Campechano)...................................$14</p>
+
+    <hr>
+
+    <h2>P A Q U E T E S</h2>
+    <dl>
+        <dt>PAQUETE GALAXIA</dt>
+        <dd>- 50 TACOS A ELEGIR CON SALSAS Y VERDURA APARTE</dd>
+        <dt>PAQUETE PLANETA</dt>
+        <dd>- 25 TACOS A ELEGIR CON SALSAS Y VERDURA APARTE</dd>
+        <dt>PAQUETE ASTEROIDE</dt>
+        <dd>- 12 TACOS A ELEGIR CON SALSAS Y VERDURA APARTE</dd>
+        <dt>PAQUETE LUNA</dt>
+        <dd>- 5 TACOS A ELEGIR CON SALSAS Y VERDURA APARTE</dd>
+    </dl>
+
+    <hr>
+
+    <h2>B E B I D A S</h2>
+    <ul>
+        <li>CHESCOS</li>
+            <ul>
+                <li>Coca</li>
+                <li>Fanta</li>
+                <li>Manzana</li>
+                <li>Sprite</li>
+                <li>Sangria</li>
+                <li>Mango</li>
+            </ul><br>
+        <li>AGUITAS</li>
+            <ul>
+                <li>Jamaica</li>
+                <li>Orchata</li>
+            </ul><br>
+        <li>CHEVES O QUE??</li>
+            <ul>
+                <li>Corona</li>
+                <li>Victoria</li>
+                <li>Negra modelo</li>
+                <li>Modelo light</li>
+            </ul>
+    </ul>
+    <a href="./Pedido.html">
+        <input type="button" value="Hacer Pedido">
+    </a>
+    <br><br>
+</body>
+</html>
